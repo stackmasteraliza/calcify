@@ -108,6 +108,8 @@ lib/
 
 Calcify does not collect, store, or share any personal data. All calculations are performed locally on your device. We respect your privacy and do not track your usage.
 
+**[View Full Privacy Policy](https://stackmasteraliza.github.io/calcify/)**
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -118,4 +120,4 @@ Made with Flutter
 
 ---
 
-**Version**: 1.0.0
+**Version**: 2.0.0
